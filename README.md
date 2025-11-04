@@ -1,2 +1,3 @@
-# My First Git Repository
-This project contains basic Git commands and practice exercises.
+# CPE201A_MATTJOHN
+This repository contains my activities for CPE201A.
+
